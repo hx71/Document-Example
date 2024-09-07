@@ -8,11 +8,11 @@
 
 <h2><br><strong>1. PENDAHULUAN</strong></br></h3>
 <h3><br><strong>1.1 Tujuan Penulisan Dokumen</strong></br></h2>
-<p>Tujuan dibuatnya dokumen SDD ini adalah untuk untuk menjelaskan langkah-langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan diterapkan pada Aplikasi BUSAYA. dan spesifikasi kebutuhan fungsional. Fungsi utama dari aplikasi ini yaitu dapat memudahkan pengguna dalam mengakses informasi mengenai Budaya dan Pariwisata yang ada di Indramayu.</p>  
+<p>Tujuan dibuatnya dokumen SDD ini adalah untuk untuk menjelaskan langkah-langkah desain dan proses-proses dalam pembuatan sistem aplikasi yang akan diterapkan pada Aplikasi BUSAYA. dan spesifikasi kebutuhan fungsional. Fungsi utama dari aplikasi ini yaitu dapat memudahkan pengguna dalam mengakses informasi mengenai Budaya dan Pariwisata.</p>  
 
 <h3><br><strong>1.2 Lingkup Masalah</strong></br></h2>
 
-<p>Sistem dari perangkat lunak ini akan menjadi Aplikasi Publik, yaitu aplikasi yang akan digunakan oleh masyarakat khusunya masyarakat Kab. Indramayu. BUSAYU (Aplikasi Budaya dan Pariwisata) adalah aplikasi berbasis Android yang dirancang untuk mengetahui dan mempermudah pengguna untuk mencari informasi tentang kebudayaan, pariwisata, dan kegiatan yang ada di Indramayu. Dan pengguna juga bisa mengajukan pengaduan tentang kebudayaan dan pariwisata.<br></p>  
+<p>Sistem dari perangkat lunak ini akan menjadi Aplikasi Publik, yaitu aplikasi yang akan digunakan oleh masyarakat. BUSAYU (Aplikasi Budaya dan Pariwisata) adalah aplikasi berbasis Android yang dirancang untuk mengetahui dan mempermudah pengguna untuk mencari informasi tentang kebudayaan, pariwisata, dan kegiatan. Dan pengguna juga bisa mengajukan pengaduan tentang kebudayaan dan pariwisata.<br></p>  
 
 <h3><br><strong>1.3 Definisi dan Istilah</strong></br></h3>
 
