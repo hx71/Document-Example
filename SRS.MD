@@ -1,8 +1,5 @@
 
-
-
 <h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
-<p align="center"><strong>Version 1.9<br>15 April 2018</strong><br></p>
 
 <h2><strong>1. PENDAHULUAN</strong></p></h2>
 <h3><strong>1.1 Tujuan</strong></h3>  
