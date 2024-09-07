@@ -3,7 +3,7 @@
 
 
 <h1 align="center" id="software-requirements-specification">SOFTWARE DESIGN DOCUMENT</h1>  
-<p align="center"><strong>"APLIKASI BUDAYA DAN PARIWISATA KABUPATEN INDRAMAYU BERRBASIS ANDROID)"<br><br></strong></p> 
+<p align="center"><strong>"APLIKASI BUDAYA DAN PARIWISATA BERRBASIS ANDROID "<br><br></strong></p> 
 </p>
 
 <h2><br><strong>1. PENDAHULUAN</strong></br></h3>
