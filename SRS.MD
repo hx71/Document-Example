@@ -4,10 +4,6 @@
 <h1 align="center" id="software-requirements-specification">SOFTWARE REQUIREMENTS SPECIFICATION</h1>  
 <p align="center"><strong>Version 1.9<br>15 April 2018</strong><br></p>
 
-<p align="center">  
-	<img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
-</p>
-
 <h2><strong>1. PENDAHULUAN</strong></p></h2>
 <h3><strong>1.1 Tujuan</strong></h3>  
 <p>Tujuan dibuatnya dokumen SRS ini adalah untuk menjelaskan tentang spesifikasi kebutuhan apa saja yang digunakan pada Aplikasi BUSAYU (Budaya dan Pariwisata Kab. Indramayu) seperti Rancangan Sistem, Mockup, dan lain-lain.<br></p>
