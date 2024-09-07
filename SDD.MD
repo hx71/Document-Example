@@ -4,10 +4,7 @@
 
 <h1 align="center" id="software-requirements-specification">SOFTWARE DESIGN DOCUMENT</h1>  
 <p align="center"><strong>"APLIKASI BUDAYA DAN PARIWISATA KABUPATEN INDRAMAYU BERRBASIS ANDROID)"<br><br></strong></p> 
-</p><p align="center">  
-<img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">  
 </p>
-
 
 <h2><br><strong>1. PENDAHULUAN</strong></br></h3>
 <h3><br><strong>1.1 Tujuan Penulisan Dokumen</strong></br></h2>
